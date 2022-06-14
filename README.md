@@ -3,8 +3,8 @@ Powershell based framework to automate packaging from intake to deploy
 
 [Youtube Video which explains it all](https://youtu.be/EpGtVk1JO1s)
 
-The framework operates fully independant of the GUI, but the GUI makes manipulations more user friendly.
-Usage of GUI.
+The framework operates fully independant of the AppManage GUI, but the GUI makes manipulations more user friendly.
+Explanation of usage of GUI below.
 
 1.Copy folder and execute AppManage.exe (MSI to be created -WIP-)
 ---------------------------------------
