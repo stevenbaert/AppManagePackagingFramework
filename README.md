@@ -27,4 +27,4 @@ Explanation of usage of GUI below.
 
 5.Approval via GUI - Local
 ---------------------------------------
-![SoftwareApprovalLocal](https://user-images.githubusercontent.com/43472567/173607570-1b3b548e-b093-469d-aaa9-1931b7344df4.png)
+![PackagingQueue](https://user-images.githubusercontent.com/43472567/173609044-edc19ad8-445f-4073-8329-20785ab1cc1e.png)
