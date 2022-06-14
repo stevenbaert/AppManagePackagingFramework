@@ -15,6 +15,16 @@ Explanation of usage of GUI below.
 ![ProcessingRequests](https://user-images.githubusercontent.com/43472567/173606010-cbbc8f63-79dd-4afd-a35b-91a9be71a3fb.png)
 
 
-2.New Request via GUI
+3.New Request via GUI
 ---------------------------------------
 ![SoftwareRequest](https://user-images.githubusercontent.com/43472567/173606712-79c1ac6b-4ba7-46a1-b98a-bf330fc40646.png)
+
+4.Approval via GUI - App-V
+---------------------------------------
+![SoftwareApprovalAppV](https://user-images.githubusercontent.com/43472567/173607525-dfa4dc50-be3c-4f5b-a34e-8bef4eaa0b9f.png)
+
+
+
+5.Approval via GUI - Local
+---------------------------------------
+![SoftwareApprovalLocal](https://user-images.githubusercontent.com/43472567/173607570-1b3b548e-b093-469d-aaa9-1931b7344df4.png)
