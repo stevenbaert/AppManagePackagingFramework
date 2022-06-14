@@ -24,7 +24,10 @@ Explanation of usage of GUI below.
 ![SoftwareApprovalAppV](https://user-images.githubusercontent.com/43472567/173607525-dfa4dc50-be3c-4f5b-a34e-8bef4eaa0b9f.png)
 
 
-
 5.Approval via GUI - Local
+---------------------------------------
+![SoftwareApprovalLocal](https://user-images.githubusercontent.com/43472567/173609235-50a31827-88b0-4d8c-9995-d4eea7085f89.png)
+
+6.Packaging queue - sequencers
 ---------------------------------------
 ![PackagingQueue](https://user-images.githubusercontent.com/43472567/173609044-edc19ad8-445f-4073-8329-20785ab1cc1e.png)
