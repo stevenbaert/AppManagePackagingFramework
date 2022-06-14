@@ -17,4 +17,4 @@ Explanation of usage of GUI below.
 
 2.New Request via GUI
 ---------------------------------------
-![SoftwareRequest](https://user-images.githubusercontent.com/43472567/173606436-fc3f0db3-e157-4871-a0c1-9687b769cc4b.png)
+![SoftwareRequest](https://user-images.githubusercontent.com/43472567/173606712-79c1ac6b-4ba7-46a1-b98a-bf330fc40646.png)
