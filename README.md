@@ -21,7 +21,7 @@ Explanation of usage of GUI below.
 
 4.Approval via GUI - App-V
 ---------------------------------------
-![SoftwareApprovalAppV](https://user-images.githubusercontent.com/43472567/173607525-dfa4dc50-be3c-4f5b-a34e-8bef4eaa0b9f.png)
+![SoftwareApprovalAppV](https://user-images.githubusercontent.com/43472567/173795235-a8043a9d-7d85-4c91-bb9a-3f045bce8942.png)
 
 
 5.Approval via GUI - Local
